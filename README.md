@@ -3,8 +3,9 @@
 
 
 ## 📋 About
- -  This is a simple website to apply what you've learned
- -  Pure HTML, CSS used
+ -  This is a simple website to apply what you've learned.
+ -  Pure HTML, CSS used.
+ -  Completed in 2021.
 
  ## 🔗 To see the project
 - [LENO](https://leno-z.netlify.app/)
